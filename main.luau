@@ -3,7 +3,7 @@ local _ENV = (getgenv or getrenv or getfenv)()
 local HttpService = game:GetService("HttpService")
 
 -- URL base do repositório (ajuste para o seu nome de usuário e repo)
-local repoBase = "https://raw.githubusercontent.com/Pedro01kk/blckzhub/main.lua/"
+local repoBase = "https://github.com/Pedro01kk/blckzhub/blob/main/main.luau"
 
 -- Lista de jogos suportados
 local Scripts = {
