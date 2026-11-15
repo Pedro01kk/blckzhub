@@ -7,7 +7,7 @@ local _ENV  = (getgenv or getrenv or getfenv)()
 local http  = game:GetService("HttpService")
 
 -- 2️⃣ URL base do seu repositório (substitua roblox pelo seu nome)
-local repoBase = "https://raw.githubusercontent.com/roblox/tlredz-scripts/main/"
+local repoBase = "https://raw.githubusercontent.com/Pedro01kk/blckzhub/refs/heads/main/main2.lua"
 
 -- 3️⃣ Mapeamento rápido de jogos → caminho do script
 local scripts = {
